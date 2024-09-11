@@ -1,1 +1,5 @@
-/.env
+/.env*
+warm-ami
+ec2-boot-bench
+.trash
+*.pem
